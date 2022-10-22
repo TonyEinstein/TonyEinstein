@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>   -->
   
 
-### <div align="center">Hi~   I am Tony Einstein, an artificial intelligence developer of Guangdong Academy of Agricultural Sciences, China.🚀</div>  
+### <div align="center">Hi~   I'm Tony Einstein, a personal developer from China.🚀</div>  
   
 
 - 🌱 I'm studying CV deep learning now.
