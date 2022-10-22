@@ -1,9 +1,12 @@
 ## Hey 👋, I'm [Tony Einstein!](https://github.com/TonyEinstein/)
-![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
-![PyTorch 1.2](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=plastic)
-![cuDNN 7.3.1](https://img.shields.io/badge/cudnn-7.3.1-green.svg?style=plastic)
-![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
-
+![Python 3.8](https://img.shields.io/badge/python-3.8-blue?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow 2.7](https://img.shields.io/badge/TensorFlow-2.7-orange?style=for-the-badge&logo=python&logoColor=orange)
+![SPSS 27](https://img.shields.io/badge/SPSS-27-9cf?style=for-the-badge&logo=python&logoColor=9cf)
+![Excel 2021](https://img.shields.io/badge/Excel-2021-brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
+![scikit_learn latest](https://img.shields.io/badge/scikit_learn-latest-ff69b4?style=for-the-badge&logo=python&logoColor=ff69b4)
+![pytorch_lightning latest](https://img.shields.io/badge/pytorch_lightning-latest-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet)
+![SQL latest](https://img.shields.io/badge/SQL-latest-green?style=for-the-badge&logo=python&logoColor=green)
+![Pandas latest](https://img.shields.io/badge/Pandas-latest-yellow?style=for-the-badge&logo=python&logoColor=yellow)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyEinstein.TonyEinstein&style=flat-square&color=0088cc)
 
