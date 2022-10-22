@@ -1,8 +1,8 @@
-## Hey 👋, I'm [Tony Einstein!](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Tony Einstein!](https://github.com/TonyEinstein/)
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyEinstein.TonyEinstein&style=flat-square&color=0088cc)
 
 I'm a graduate in Data and Applied Mathematics 🎓 from Beibu Gulf University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data analysis Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
@@ -19,7 +19,7 @@ I'm a graduate in Data and Applied Mathematics 🎓 from Beibu Gulf University �
 - 💬 &nbsp; Ask me about anything [here](https://github.com/TonyEinstein/TonyEinstein/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: crh19981229@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/TonyEinstein/Sentiment-analysis).
+- 📝 &nbsp; Checkout my [Home page](https://github.com/TonyEinstein).
 
 ### My Absolute Favorites:
 
