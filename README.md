@@ -15,8 +15,8 @@ I'm a graduate in Data and Applied Mathematics 🎓 from Beibu Gulf University �
 
 - 🛠 &nbsp; I’m currently working with Python, SPSS, Excel, MySQL.
 - 🚀 &nbsp; I’m currently learning Image algorithm.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/TonyEinstein).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/TonyEinstein/TonyEinstein/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/TonyEinstein?tab=repositories).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/TonyEinstein/TonyEinstein/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: crh19981229@gmail.com.
 - 📝 &nbsp; Checkout my [Home page](https://github.com/TonyEinstein).
