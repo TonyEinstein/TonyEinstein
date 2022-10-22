@@ -22,7 +22,7 @@ I'm a graduate in Data and Applied Mathematics 🎓 from Beibu Gulf University �
 - 💬 &nbsp; Ask me about anything [here](https://github.com/TonyEinstein/TonyEinstein/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: crh19981229@gmail.com.
-- 📝 &nbsp; Checkout my [Home page](https://github.com/TonyEinstein).
+- 📝 &nbsp; Checkout my [Blog Home page](chenruhai.blog.csdn.net).
 
 ### My Absolute Favorites:
 
