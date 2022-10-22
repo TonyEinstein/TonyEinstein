@@ -69,12 +69,11 @@ I'm a graduate in Data and Applied Mathematics 🎓 from Beibu Gulf University �
   <br />
   <summary><b>⚙️ Things I use to get stuff done ⚛️ </b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> Lenovo Savior Y900P 2022(i7)</li>
+  	    <li><b>Browser: </b> Google Chrome Web Browser</li>
+	    <li><b>Code Editor:</b> PyCharm - The best editor out there.</li>
+	    <li><b>Main language:</b> Python - The best programming language in the world.</li>
 	    <br />
 	</ul>	
 </details>
