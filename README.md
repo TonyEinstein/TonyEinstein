@@ -1,13 +1,13 @@
 ## Hey 👋, I'm [Tony Einstein!](https://github.com/TonyEinstein/)
-![Python ](https://img.shields.io/badge/python-3.8-blue?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7-orange?style=for-the-badge&logo=python&logoColor=orange)
-![SPSS](https://img.shields.io/badge/SPSS-27-9cf?style=for-the-badge&logo=python&logoColor=9cf)
-![Excel](https://img.shields.io/badge/Excel-2021-brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
+![Python ](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=python&logoColor=orange)
+![SPSS](https://img.shields.io/badge/SPSS-9cf?style=for-the-badge&logo=python&logoColor=9cf)
+![Excel](https://img.shields.io/badge/Excel-brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
 ![scikit_learn latest](https://img.shields.io/badge/scikit_learn-latest-ff69b4?style=for-the-badge&logo=python&logoColor=ff69b4)
 ![pytorch_lightning latest](https://img.shields.io/badge/pytorch_lightning-latest-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet)
 ![SQL latest](https://img.shields.io/badge/SQL-latest-green?style=for-the-badge&logo=python&logoColor=green)
 ![Pandas latest](https://img.shields.io/badge/Pandas-latest-yellow?style=for-the-badge&logo=python&logoColor=yellow)
-![pytorch](https://img.shields.io/badge/pytorch_lightning-latest-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet)
+![pytorch](https://img.shields.io/badge/pytorch-blueviolet?style=for-the-badge&logo=python&logoColor=blueviolet)
 
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/TonyEinstein/TonyEinstein/blob/master/gifs/dino.gif" />
