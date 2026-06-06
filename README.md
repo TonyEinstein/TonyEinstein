@@ -8,9 +8,6 @@
 ![SQL latest](https://img.shields.io/badge/SQL-latest-green?style=for-the-badge&logo=python&logoColor=green)
 ![Pandas latest](https://img.shields.io/badge/Pandas-latest-yellow?style=for-the-badge&logo=python&logoColor=yellow)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyEinstein.TonyEinstein&style=flat-square&color=0088cc)
-
-I'm a graduate in Data and Applied Mathematics 🎓 from Beibu Gulf University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data analysis Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/TonyEinstein/TonyEinstein/blob/master/gifs/dino.gif" />
 
